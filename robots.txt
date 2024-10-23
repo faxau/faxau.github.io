@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://faxau.github.io/gWO/sitemap.gWO
